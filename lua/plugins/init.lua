@@ -16,10 +16,10 @@ return {
     },
     opts = require "configs.cmp",
   },
-  {
-    "sphamba/smear-cursor.nvim",
-    opts = {},
-  },
+  --   {
+  --     "sphamba/smear-cursor.nvim",
+  --     opts = {},
+  --   },
   {
     "3rd/image.nvim",
     build = false,
